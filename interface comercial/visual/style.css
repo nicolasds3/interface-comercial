@@ -539,6 +539,14 @@
 #barra {
     background-image: url(../imagens/barra.png);
     background-repeat: no-repeat;
+    width: 1000px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+#image {
+    width: 1500px;
+    height: 24px;
 }
 
 #element3 {
@@ -628,9 +636,217 @@
 }
 
 .procura {
-    background-color: red;
     width: 1968px;
     height: 300px;
     border-top: 4px solid steelblue;
     margin-top: 7px;
+    display: flex;
 }
+
+.divgrandeesquerda {
+    height: 350px;
+    width: 600px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.divesquerda {
+    display: flex;
+    margin-top: 0px;
+    width: 600px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+#bonito5 {
+    font-size: 200%;
+    color: steelblue;
+}
+
+#divbloco {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 20px;
+}
+
+#divbloco1 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 70px;
+}
+
+#divbloco2 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 56px;
+}
+
+#divbloco3 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 82px;
+}
+
+#divbloco4 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 41px;
+}
+
+#divbloco5 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 11px;
+}
+
+#divbloco6 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 86px;
+}
+
+#divbloco7 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 11px;
+}
+
+#divbloco10 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 147px;
+}
+
+#divbloco11 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 132px;
+}
+
+#divbloco12 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 118px;
+}
+
+#divbloco13 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 141px;
+}
+
+#divbloco14 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 48px;
+}
+
+#divbloco16 {
+    border: 1px solid darkslategrey;
+    width: 440px;
+    height: 25px;
+    display: flex;
+    margin-left: 39px;
+}
+
+#p3 {
+    margin-top: 3px;
+}
+
+#p4 {
+    margin-top: 2.7px;
+    margin-left: 8px;
+}
+
+#p6 {
+    width: 100px;
+}
+
+#p7 {
+    width: 130px;
+}
+
+#p9 {
+    width: 130px;
+}
+
+#p5 {
+    margin-left: 275px;
+}
+
+#p10 {
+    margin-left: 414px;
+    margin-top: 3px;
+}
+
+#p11 {
+    margin-left: 8px;
+    margin-top: 3px;
+}
+
+#p20 {
+    margin-left: 415px;
+    margin-top: 1.2px;
+}
+
+#p21 {
+    width: 140px;
+}
+
+#p22 {
+    width: 180px;
+}
+
+#p23 {
+    width: 140px;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+
+#p24 {
+    width: 150px;
+}
+
+.divgrandedireita {
+    height: 350px;
+    width: 600px;
+    margin-left: 190px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
