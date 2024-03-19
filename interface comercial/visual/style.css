@@ -645,7 +645,7 @@
 
 .divgrandeesquerda {
     height: 350px;
-    width: 600px;
+    width: 900px;
     margin-left: 150px;
     margin-top: 20px;
 }
@@ -767,12 +767,12 @@
     margin-left: 48px;
 }
 
-#divbloco16 {
+#divbloco17 {
     border: 1px solid darkslategrey;
-    width: 440px;
+    width: 416px;
     height: 25px;
     display: flex;
-    margin-left: 39px;
+    margin-left: 110px;
 }
 
 #p3 {
@@ -811,7 +811,7 @@
 }
 
 #p20 {
-    margin-left: 415px;
+    margin-left: 340px;
     margin-top: 1.2px;
 }
 
@@ -830,7 +830,7 @@
 }
 
 #p24 {
-    width: 150px;
+    width: 129px;
 }
 
 .divgrandedireita {
