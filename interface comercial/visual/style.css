@@ -7,6 +7,7 @@
 #header2 {
     background-color: lightgrey;
     height: 110px;
+    width: 1945px;
 }
 
 #h12 {
@@ -15,7 +16,7 @@
 }
 
 #listra2 {
-    width: 2379px;
+    width: 1945px;
     height: 20px;
 }
 
@@ -109,6 +110,7 @@
 
 .tudo {
     display: flex;
+    width: 1570px;
 }
 
 .sectionNavigation {
@@ -298,21 +300,21 @@
 
 .sectiongrandona {
     background-color: whitesmoke;
-    width: 1968px;
+    width: 1537px;
     height: 480px;
 }
 
 #bonito {
     background-color: white;
     height: 35px;
-    width: 1954px;
+    width: 1537px;
     margin-left: 15px;
 }
 
 #bonito2 {
     background-color: lightslategray;
     height: 8px;
-    width: 1935px;
+    width: 1502px;
     margin-left: 19px;
     opacity: 50%;
 }
@@ -359,7 +361,7 @@
     border-top: 4px solid steelblue;
     background-color: lightgrey;
     height: 40px;
-    width: 1954px;
+    width: 1499px;
     margin-left: 15px;
 }
 
@@ -615,7 +617,7 @@
 
 .sectiondebaixo {
     margin-top: 20px;
-    width: 1968px;
+    width: 1568px;
     height: 400px;
     background-color: white;
 }
@@ -636,7 +638,7 @@
 }
 
 .procura {
-    width: 1968px;
+    width: 1537px;
     height: 300px;
     border-top: 4px solid steelblue;
     margin-top: 7px;
@@ -645,7 +647,7 @@
 
 .divgrandeesquerda {
     height: 350px;
-    width: 900px;
+    width: 600px;
     margin-left: 150px;
     margin-top: 20px;
 }
@@ -737,7 +739,7 @@
 
 #divbloco11 {
     border: 1px solid darkslategrey;
-    width: 440px;
+    width: 418px;
     height: 25px;
     display: flex;
     margin-left: 132px;
@@ -767,12 +769,20 @@
     margin-left: 48px;
 }
 
-#divbloco17 {
+#divbloco16 {
     border: 1px solid darkslategrey;
-    width: 416px;
+    width: 437px;
     height: 25px;
     display: flex;
-    margin-left: 110px;
+    margin-left: 39px;
+}
+
+#divbloco17 {
+    border: 1px solid darkslategrey;
+    width: 437px;
+    height: 25px;
+    display: flex;
+    margin-left: 39px;
 }
 
 #p3 {
@@ -811,7 +821,7 @@
 }
 
 #p20 {
-    margin-left: 340px;
+    margin-left: 390px;
     margin-top: 1.2px;
 }
 
@@ -830,7 +840,15 @@
 }
 
 #p24 {
-    width: 129px;
+    width: 150px;
+}
+
+#p25 {
+    margin-left: 382px;
+}
+
+#p26 {
+    width: 190px;
 }
 
 .divgrandedireita {
@@ -839,14 +857,3 @@
     margin-left: 190px;
     margin-top: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
