@@ -2,48 +2,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../interfacecomercial/style.css">
     <title>SAP</title>
 </head>
 <body>
-    <header>
-        <section class="teste">
+    <div class="display-flex">
+        <div class="azul1 largura-1">
+            <div class="superiorEsquerdo display-flex">
                 <div>
-                    <img src="robo.jpeg.png"/>
+                    <img id="robo" src="../interfacecomercial/imagens/robo.png">
                 </div>
-
-                <div class="perguntas">
-                    <br>
-                    <br>
+                <div class="intro">
                     <h2>Olá, tudo bem?</h2>
-                    <h2>Como posso<br>ajudar hoje?</h2>
-                    <a><span style="color: white;">Fale comigo!</span></a>
+                    <h2>Como posso ajudar hoje?</h2>
+                    <div class="faleComigo"><a>Fale comigo!</a></div>
                 </div>
-
-                <div class="opcao">
-                    <div>
-                        <a>QUERO COMPRAR MATERIAL</a>
-                    </div>
-                    <div >
-                        <a>QUERO COMPRAR SERVIÇO</a>
-                    </div>
-                    <div>
-                        <a>CONSULTAR FLUXOS DE PROCESSOS</a>
-                    </div>
-                    <div>
-                        <a>STATUS DAS MINHAS AQUISIÇÕES</a>
-                    </div>
-                    <div>
-                        <a>NÃO SEI  AO CERTO, ME AJUDE</a>
-                    </div>
+                <div class="opcoes">
+                    <div class="um"><a>QUERO COMPRAR MATERIAL</a></div><br>
+                    <div class="dois"><a>QUERO COMPRAR SERVIÇO</a></div><br>
+                    <div class="tres"><a>CONSULTAR FLUXO DE PROCESSO</a></div><br>
+                    <div class="quatro"><a>STATUS DAS MINHAS REQUISIÇÕES</a></div><br>
+                    <div class="cinco"><a>NÃO SEI AO CERTO, ME AJUDE</a></div><br>
                 </div>
-
-                <div id="superior_direito">
-                    <h3 id="Status">Status de pedidos recentes</h3>
+            </div>
+        </div>
+        <div class="azul1 largura-2">
+            <div id="display-flex">
+                <div id="topo">
+                    <h3 id="status">Status de pedidos recentes</h3>
                 </div>
-                <div id="todos">
-                    <h6>Ver todos os pedidos</h6>
+                <div id="topoEsquerdo">
+                    <h5 id="topo">Ver todos os pedidos</h5>
                 </div>
+            </div>
+            <div id="display-flex">
                 <div id="p1">
                     <h4>Nº Req.</h4>
                 </div>
@@ -56,59 +48,123 @@
                 <div id="p4">
                     <h4>Status</h4>
                 </div>
-                <div class="Linha">
+            </div>
+            <div class="divLinha">
                     <p>#125</p>
                     <p>20/04/2020</p>
                     <p>R$1250,50</p>
-                    <button class="proce">rocessado</button>
-                </div>
-                <div class="Linha">
+                    <button class="Processado">Processado</button>
+            </div>
+            <div class="divLinha">
                     <p>#125</p>
                     <p>20/04/2020</p>
                     <p>R$1250,50</p>
-                    <button class="analise">Analise</button>
-                </div>
-                <div class="Linha">
+                    <button class="Analise">Análise</button>
+            </div>
+            <div class="divLinha">
                     <p>#125</p>
                     <p>20/04/2020</p>
                     <p>R$1250,50</p>
-                    <button class="nega">Negado</button>
-                </div>
-                <div class="Linha">
+                    <button class="Negado">Negado</button>
+            </div>
+            <div class="divLinha">
                     <p>#125</p>
                     <p>20/04/2020</p>
                     <p>R$1250,50</p>
-                    <button class="proce">processado</button>
+                    <button class="Processado">Processado</button>
+            </div>
+        </div>
+    </div>
+    <div class="display-flex">
+        <div class="azul2 largura-3">
+            <div class="display-flex">
+                <div id="compras">
+                    <h3 id="ultimasCompras">Baseado em suas últimas compras</h3>
                 </div>
-        </section>
-    </header>
-
-
-    <section id="meio">
-        <div id="papel">
-            <img src="papel.png" id="folha">
-            <p>Papel Folha A4<br>R$32,36</p>
+                <div id="recomendacoes">
+                <h5 id="todasRecomendacoes">Ver todas as recomendações</h5>
+                </div>
+            </div>
+            <div class="display-flex">
+            <div id="papel">
+                <img src="../interfacecomercial/imagens/chamex.png" id="folha">
+                <p>Papel Folha A4<br>R$32,36</p>
+            </div>
+            <div id="logo">
+                <img src="../interfacecomercial/imagens/sap.png" id="logotipo">
+                <p>Sap<br>R$18,00</p>
+            </div>
+            <div id="grampeador">
+                <img src="../interfacecomercial/imagens/grampeador.png" id="grampo">
+                <p>Grampeador<br>R$16,01</p>
+            </div>
+            <div id="caneta">
+                <img src="../interfacecomercial/imagens/caneta.png" id="bic">
+                <p>Caneta Bic Azul<br>R$2,38</p>
+            </div>
+            <div id="lapis">
+                <img src="../interfacecomercial/imagens/lapis (1).png" id="escrita">
+                <p>Lápis Preto<br>R$1,00</p>
+            </div>
+            <div id="caderno">
+                <img src="../interfacecomercial/imagens/caderno.png" id="estudo">
+                <p>Caderno 100 Folhas<br>R$33,25</p>
+            </div>
+            </div>
         </div>
-        <div id="logo">
-            <img src="sapp.png.png" id="logotipo">
-            <p>Sap<br>R$?</p>
+        <div class="azul2 largura-4">
+            <div class="display-flex">
+                <div id="mensagens">
+                    <h3 id="mensagensAlertas">Mensagens e alertas</h3>
+                </div>
+                <div id="alertas">
+                <h5 id="todasMensagens">Ver todas as mensagens</h5>
+                </div>
+            </div>
+            <div class="display-flex">
+                <div class="imagemMensagens">
+                    <img src="../interfacecomercial/imagens/joaoMarcio.png" id="imgMensagens">
+                </div>
+            </div>
         </div>
-        <div id="grampeador">
-            <img src="grampeador.png" id="grampo">
-            <p>Grampeador<br>R$16,01</p>
+    </div>
+    <div class="display-flex">
+        <div class="azul3 largura-5">
+            <div id="display-flex">
+                <div id="topo2">
+                    <h3 id="status2">Status da últimas requisições</h3>
+                </div>
+                <div id="topoEsquerdo">
+                    <h5 id="topo3">Ver todos processos</h5>
+                </div>
+            </div>
+            <div id="pedidos">
+                <img src="../interfacecomercial/imagens/pedidos.png" id="imgPedidos">
+            </div>
         </div>
-        <div id="caneta">
-            <img src="caneta.png" id="bic">
-            <p>Caneta Bic Azul<br>R$2,38</p>
+        <div class="azul3 largura-6">
+            <div class="display-flex">
+                <div id="transacoesPedidos">
+                    <h3 id="ultimasTransacoes">Últimas transações e pedidos</h3>
+                </div>
+                <div id="transacoes">
+                    <h5 id="todasTransacoes">Ver todas as transações</h5>
+                </div>
+            </div>
+            <div class="display-flex">
+                <div id="papel2">
+                    <img src="../interfacecomercial/imagens/chamex.png" id="folha2">
+                    <p>Papel Folha A4<br>R$32,36</p>
+                </div>
+                <div id="logo2">
+                    <img src="../interfacecomercial/imagens/sap.png" id="logotipo2">
+                    <p>Sap<br>R$?</p>
+                </div>
+                <div id="grampeador2">
+                    <img src="../interfacecomercial/imagens/grampeador.png" id="grampo2">
+                    <p>Grampeador<br>R$16,01</p>
+                </div>
+            </div>
         </div>
-        <div id="lapis">
-            <img src="lápis.png" id="escrita">
-            <p>Lápis Preto<br>R$1,00</p>
-        </div>
-        <div id="caderno">
-            <img src="caderno.png" id="estudo">
-            <p>Caderno 100 Folhas<br>R$33,25</p>
-        </div>
-    </section>
 </body>
 </html>

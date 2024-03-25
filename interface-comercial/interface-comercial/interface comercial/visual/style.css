@@ -7,7 +7,6 @@
 #header2 {
     background-color: lightgrey;
     height: 110px;
-    width: 1945px;
 }
 
 #h12 {
@@ -16,7 +15,7 @@
 }
 
 #listra2 {
-    width: 1945px;
+    width: 2379px;
     height: 20px;
 }
 
@@ -110,7 +109,6 @@
 
 .tudo {
     display: flex;
-    width: 1570px;
 }
 
 .sectionNavigation {
@@ -300,21 +298,21 @@
 
 .sectiongrandona {
     background-color: whitesmoke;
-    width: 1537px;
+    width: 1968px;
     height: 480px;
 }
 
 #bonito {
     background-color: white;
     height: 35px;
-    width: 1537px;
+    width: 1954px;
     margin-left: 15px;
 }
 
 #bonito2 {
     background-color: lightslategray;
     height: 8px;
-    width: 1502px;
+    width: 1935px;
     margin-left: 19px;
     opacity: 50%;
 }
@@ -361,7 +359,7 @@
     border-top: 4px solid steelblue;
     background-color: lightgrey;
     height: 40px;
-    width: 1499px;
+    width: 1954px;
     margin-left: 15px;
 }
 
@@ -617,7 +615,7 @@
 
 .sectiondebaixo {
     margin-top: 20px;
-    width: 1568px;
+    width: 1968px;
     height: 400px;
     background-color: white;
 }
@@ -638,7 +636,7 @@
 }
 
 .procura {
-    width: 1537px;
+    width: 1968px;
     height: 300px;
     border-top: 4px solid steelblue;
     margin-top: 7px;
@@ -647,7 +645,7 @@
 
 .divgrandeesquerda {
     height: 350px;
-    width: 600px;
+    width: 900px;
     margin-left: 150px;
     margin-top: 20px;
 }
@@ -739,7 +737,7 @@
 
 #divbloco11 {
     border: 1px solid darkslategrey;
-    width: 418px;
+    width: 440px;
     height: 25px;
     display: flex;
     margin-left: 132px;
@@ -769,20 +767,12 @@
     margin-left: 48px;
 }
 
-#divbloco16 {
-    border: 1px solid darkslategrey;
-    width: 437px;
-    height: 25px;
-    display: flex;
-    margin-left: 39px;
-}
-
 #divbloco17 {
     border: 1px solid darkslategrey;
-    width: 437px;
+    width: 416px;
     height: 25px;
     display: flex;
-    margin-left: 39px;
+    margin-left: 110px;
 }
 
 #p3 {
@@ -821,7 +811,7 @@
 }
 
 #p20 {
-    margin-left: 390px;
+    margin-left: 340px;
     margin-top: 1.2px;
 }
 
@@ -840,15 +830,7 @@
 }
 
 #p24 {
-    width: 150px;
-}
-
-#p25 {
-    margin-left: 382px;
-}
-
-#p26 {
-    width: 190px;
+    width: 129px;
 }
 
 .divgrandedireita {
@@ -858,509 +840,13 @@
     margin-top: 20px;
 }
 
-.azul1 {
-    border-radius: 1cap;
-    background-color: #D9E9FD;
-    padding: 1px;
-    margin: 10px;
-    height: 300px;
-}
 
-#robo {
-    width: 300px;
-    margin-top: 0px;
-}
 
-.display-flex {
-    display: flex;
-    justify-content: space-between;
-}
 
-.largura-1 {
-    width: 980px;
-}
 
-.largura-2 {
-    width: 480px;
-}
 
-.azul2 {
-    border-radius: 1cap;
-    background-color: #D9E9FD;
-    padding: 2px;
-    margin: 10px;   
-    height: 300px;
-}
 
-.largura-3 {
-    width: 975px;
-}
 
-.largura-4 {
-    width: 480px;
-}
 
-.azul3 {
-    border-radius: 1cap;
-    background-color: #D9E9FD;
-    padding: 1px;
-    margin: 10px;
-    height: 300px; 
-}
 
-.largura-5 {
-    width: 980px;
-}
 
-.largura-6 {
-    width: 480px;    
-}
-
-.superiorEsquerdo  {
-    display: flex;
-    margin-right: 20px;
-}
-
-
-.intro {
-    font-family: sans-serif;
-    color: #003DA7;
-    margin-left: 5px;
-    margin-top:60px;
-    margin-right: 30px;
-}
-
-.faleComigo {
-    background-color: #003DA7;
-    color: white;
-    border-radius: 5cap;
-    text-align: center;
-    width: 40%;
-    height: 20px;
-}
-
-.opcoes {
-    margin-top: 60px;
-    margin-right: 70px;
-}
-
-.um {
-    font-family: sans-serif;
-    font-size: 15px;
-    background-color: #003DA7;
-    color: white;
-    border-radius: 5cap;
-    text-align: center;
-    width: 110%;
-    height: 20px;
-}
-
-.dois {
-    margin-top: 0px;
-    font-family: sans-serif;
-    font-size: 15px;
-    background-color: #003DA7;
-    color: white;
-    border-radius: 5cap;
-    text-align: center;
-    width: 110%;
-    height: 20px;
-}
-
-.tres {
-    font-family: sans-serif;
-    font-size: 15px;
-    background-color: #003DA7;
-    color: white;
-    border-radius: 5cap;
-    text-align: center;
-    width: 110%;
-    height: 20px;
-}
-
-.quatro {
-    font-family: sans-serif;
-    font-size: 15px;
-    background-color: #003DA7;
-    color: white;
-    border-radius: 5cap;
-    text-align: center;
-    width: 110%;
-    height: 20px;
-}
-
-.cinco {
-    font-family: sans-serif;
-    font-size: 15px;
-    background-color: #003DA7;
-    color: white;
-    border-radius: 5cap;
-    text-align: center;
-    width: 110%;
-    height: 20px;
-}
-
-#status {
-    margin-top: 2%;
-    color: #003DA7;
-    font-family: sans-serif;    
-}
-
-
-#topo {
-    margin-top: 2%;
-    color: #003DA7;
-    font-family: sans-serif; 
-    margin-left: 15px;
-}
-
-
-#topoEsquerdo {
-    margin-top: 3%;
-    color: #003DA7;
-    font-family: sans-serif; 
-    margin-left: 40px;
-}
-
-#display-flex {
-    display: flex;
-}
-
-#p1 {
-    font-family: sans-serif;
-    color: #003DA7;
-    margin-left: 15px;
-    float: left;
-    font-family: sans-serif;
-}
-
-#p2  {
-    font-family: sans-serif;
-    color: #003DA7;
-    margin-left: 60px;
-    height: 0%;
-    width: 0%;
-    float: left;
-}
-
-#p3 {
-    font-family: sans-serif;
-    color: #003DA7;
-    margin-left: 100px;
-    height: 0%;
-    width: 0%;
-    float: left;    
-}
-
-#p4 {
-    font-family: sans-serif;
-    color: #003DA7;
-    margin-left: 100px;
-}
-
-
-.divLinha {
-    margin: 7px;
-    margin-left: 15px;
-    margin-top: 5px;
-    background-color: white;
-    border-radius: 10px;
-    justify-content: space-between;
-    padding: 10px;
-    width: 430px;
-    display: flex;
-    height: 5%;
-}
-
-.Processado {
-    background-color: #56B96A;
-    height: 20px;
-    width: 21%;
-}
-
-.Negado {
-    background-color: #ED4633;
-    width: 21%;
-    height: 20px;
-}
-
-.Analise {
-    background-color: #FBCC33;
-    width: 21%;
-    height: 20px;
-}
-
-.display-flex {
-    display: flex;
-}
-
-#compras {
-    margin-left: 15px;
-    color: #003DA7;
-    font-family: sans-serif;
-    width: 500%;
-}
-
-#recomendacoes {
-    margin-left: 300px;
-    color: #003DA7;
-    font-family: sans-serif;
-    width: 500%;
-}
-
-#papel {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 200px;
-    padding: 0px;
-    margin: 20px;
-    margin-top: 20px;
-    margin-right: 5px;
-    font-family: sans-serif;
-    font-size: 15px;
-}
-
-#folha {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px;
-    margin-top: 10px;
-}
-
-#logo {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 200px;
-    padding: 0px;
-    margin-top: 20px;
-    margin-right: 5px; 
-    font-family: sans-serif;
-    font-size: 15px;
-}
-
-#logotipo {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px;
-    margin-top: 10px;
-}
-
-#grampeador {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 200px;
-    padding: 0px;
-    margin-top: 20px;
-    margin-right: 5px; 
-    font-family: sans-serif; 
-    font-size: 15px;
-}
-
-#grampo {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px;
-    margin-top: 10px;
-}
-
-#caneta {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 200px;
-    padding: 0px;
-    margin-top: 20px;
-    margin-right: 5px; 
-    font-family: sans-serif; 
-    font-size: 15px;
-}
-
-#bic {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px; 
-    margin-top: 10px;
-}
-
-#lapis {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 200px;
-    padding: 0px;
-    margin-top: 20px;
-    margin-right: 5px;
-    font-family: sans-serif;
-    font-size: 15px;
-}
-
-#escrita {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px;  
-    margin-top: 10px;
-}
-
-#caderno {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 200px;
-    padding: 0px;
-    margin-top: 20px;
-    margin-right: 20px;
-    font-family: sans-serif;
-    font-size: 15px;
-}
-
-#estudo {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px;  
-    margin-top: 10px;  
-}
-
-#status2 {
-    margin-top: 2%;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin: 2px;
-    color: #003DA7;
-    font-family: sans-serif;   
-}
-
-#topo3 {
-    margin-top: 1%;
-    color: #003DA7;
-    font-family: sans-serif; 
-    margin-left: 0px; 
-}
-
-#pedidos {
-
-}
-
-#ultimasTransacoes {
-    color: #003DA7;
-    font-family: sans-serif;
-    width: 500%;
-    margin-left: 15px;
-
-}
-
-#todasTransacoes {
-    margin-right: 20px;
-    color: #003DA7;
-    font-family: sans-serif;
-    width: 500%;
-}
-
-#papel2 {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 150px;
-    padding: 0px;
-    margin-top: 20px;
-    margin-right: 5px;
-    margin-left: 20px;
-    font-family: sans-serif;
-    font-size: 15px;
-}
-
-#folha2 {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px;
-    margin-top: 10px;
-}
-
-#logo2 {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 150px;
-    padding: 0px;
-    margin-top: 20px;
-    margin-right: 5px; 
-    font-family: sans-serif;
-    font-size: 15px;
-}
-
-#logotipo2 {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px;
-    margin-top: 10px;
-}
-
-#grampeador2 {
-    border-radius: 5%;
-    text-align: center;
-    background-color: white;
-    height: 175px;
-    width: 150px;
-    padding: 0px;
-    margin-top: 20px;
-    margin-right: 20px;
-    font-family: sans-serif; 
-    font-size: 15px;
-}
-
-#grampo2 {
-    text-align: center;
-    background-color: white;
-    height: 100px;
-    width: 100px;
-    margin-top: 10px;
-}
-
-#mensagensAlertas {
-    color: #003DA7;
-    font-family: sans-serif;
-    width: 500%;
-    margin-left: 15px; 
-}
-
-#todasMensagens {
-    margin-right: 20px;
-    color: #003DA7;
-    font-family: sans-serif;
-    width: 500%;
-}
-
-#imagemMensagens {
-    width: 200px;
-}
-
-#imgPedidos {
-    margin-left: 20px;
-    width: 940px;
-    height: 500px;
-}
-
-#imgMensagens {
-    width: 450px;
-    height: 300px;
-    margin-left: 15px;
-    margin-top: 0px;
-}
